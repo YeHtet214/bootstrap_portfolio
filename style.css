@@ -1,0 +1,13 @@
+:root {
+    --light-bg: #B48B6222;
+    --primary: #FF0063;
+  
+  }
+
+.bg-danger {
+    background-color: var(--light-bg);
+}
+.btn {
+    border: none;
+    
+}
